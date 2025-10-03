@@ -1,5 +1,7 @@
 # API Documentation
 
+## Docs generated from api server code
+
 ## Overview
 
 This API provides image and video generation capabilities using Google's AI models. The service supports various operations including image generation, image transformation, prompt extraction, and video generation.
